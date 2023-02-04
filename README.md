@@ -8,6 +8,12 @@ You'll find here the following:
 - Supplementals 2
 - Supplementals 3
 
+## How To Download
+
+Click on the desired .ISO/.ISO.C file, and when prompted with its page, click on "download" and download or smth, idk.
+
+
+
 ##### NOTE: These are reuploads of the files that are considered official, but keep in mind that they might've been modified by the unspeakable, take care.
 
 Original place of download - [TempleOS - official website](https://templeos.org/)
