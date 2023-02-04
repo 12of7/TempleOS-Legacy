@@ -10,7 +10,4 @@ You'll find here the following:
 
 ##### NOTE: These are reuploads of the files that are considered official, but keep in mind that they might've been modified by the unspeakable, take care.
 
-Original places:
-- [TempleOS - official website](https://templeos.org/)
-- [TempleOS - backup](https://templeos.holyc.xyz) - getting all the files manually installed; Soon(TM)
-- [Internet Archive](https://archive.org/details/TerryADavis_TempleOS_Archive)
+Original place of download - [TempleOS - official website](https://templeos.org/)
